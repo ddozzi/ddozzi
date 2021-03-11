@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there! I'm DDOZZI!👋
 
-<!--
-**ddozzi/ddozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm decent at Python and Javascript, still learning Java though.
 
-Here are some ideas to get you started:
+**Notable stuff**
+* Lane detection 
+* Discord moderation bot
+* Minecraft mod thing
 
-Decent at Python
-Okay at Javascript
-Okay at C#
-Learning Java
+other than that im pretty useless
+
+[![DDOZZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
