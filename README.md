@@ -1,6 +1,6 @@
 ### Hi there! I'm DDOZZI!👋
 
-* I'm decent at Python, Javascript, and okay at Java.
+* I'm proficient at Python, Javascript, and decent at Java.
 
 **Notable stuff**
 * [Lane detection](https://github.com/ddozzi/Lane-Detection) 
