@@ -5,7 +5,7 @@
 
 **Notable stuff**
 * [Lane detection](https://github.com/ddozzi/Lane-Detection) 
-* [Discord moderation bot](https://github.com/ddozzi/ban-notifier) [![DDOZZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+* [Discord moderation bot](https://github.com/ddozzi/ban-notifier)                  [![DDOZZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 * Currently working on a Minecraft Client
 * Minecraft and Discord bridge 
 
