@@ -4,7 +4,6 @@
 * Proficient at python and javascript, decent at java.
 
 **Notable stuff**
-* [Lane detection](https://github.com/ddozzi/Lane-Detection) 
 * [Discord moderation bot](https://github.com/ddozzi/ban-notifier)                  
 * Currently working on a Minecraft Client
 * Minecraft and Discord bridge 
