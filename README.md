@@ -11,5 +11,5 @@
 
 
 <p>
-  <img width="200" alt="hello!" align="left" src="https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark)](https://github.com/anuraghazra/github-readme-stats">
+  <img width="200" alt="hello!" align="left" src="https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark">
 </p>
