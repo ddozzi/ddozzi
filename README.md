@@ -1,4 +1,4 @@
-### Hi there! I'm DDOZZI!👋
+### Hi there! I'm Jayden! But I usually go by ddozzi. 👋
 
 * I'm a programmer, gamer, and student 
 * Proficient at python, java and R, decent at javascript.
