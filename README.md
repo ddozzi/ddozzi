@@ -11,5 +11,5 @@
 
 
 <p>
-  <img width="1000" alt="hello!" align="left" src="https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark">
+  <img width="500" alt="hello!" align="left" src="https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark">
 </p>
