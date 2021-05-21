@@ -6,8 +6,9 @@
 **Notable Projects**
 * [Lane Detection](https://github.com/ddozzi/Lane-Detection-v1.2)
 * [Discord moderation bot](https://github.com/ddozzi/ban-notifier)                  
-* Currently working on a Minecraft Client! Go check out my discord -> [here](https://discord.gg/TJfge8HC)
-* You can check out my older Minecraft Client -> [here](https://ddozzi.github.io) it has since been abandoned
+* Currently working on a Minecraft Client! Go check out my discord [here](https://discord.gg/TJfge8HC)
+* You can check out my older Minecraft Client [here](https://ddozzi.github.io) it has since been abandoned
+* Check out my third-party modifications [here](https://github.com/ddozzi?tab=repositories&q=mod&type=&language=java&sort=)
 * Made a bridge between Minecraft (game) and Discord (messaging app)!
 
 
