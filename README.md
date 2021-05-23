@@ -1,7 +1,7 @@
 ### Hi there! I'm ddozzi!👋
 
 * I'm a programmer, gamer, and student 
-* Proficient at Python, Java and R, decent at Javascript.
+* Decent at Python, Java and R, okay at Javascript.
 
 **Notable Projects**
 * [Lane Detection](https://github.com/ddozzi/Lane-Detection-v1.2)
