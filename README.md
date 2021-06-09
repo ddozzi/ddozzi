@@ -12,8 +12,7 @@
 * Made a bridge between Minecraft (game) and Discord (messaging app)!
 
 **TRY TO CRACK ME!**
-* Here's a little challenge for you to figure out. Convert this to plain text! ```.U!wc,$E4f`y[4 L5{"$+3! ]20)\9| !(VG|ey+3%Y'8dq{yT-,}``` That might take some time... here's a hint: the encryption key is exactly 3000 characters long. Good Luck!
-
+* Coming Soon...
 
 <p>
   <img width="500" alt="hello!" align="left" src="https://github-readme-stats.vercel.app/api?username=DDOZZI&theme=dark">
