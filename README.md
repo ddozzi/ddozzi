@@ -12,6 +12,7 @@
 * Created some games, none of which i've finished (got bored of making them)
 * Head developer @ Space (retired)
 * Used neural networks to detect early signs of kidney disease
+* Created Minecraft modding tutorials
 * a lot more...
 
 I really have to clean up my social media...
