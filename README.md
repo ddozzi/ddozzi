@@ -6,6 +6,7 @@
 ## Things i'm working on
 * Created third party modifications for popular game; Minecraft
 * Head developer @ Agility
+* Mixin client tutorial
 
 ## Things i've worked on 
 * Was a UI & UX designer for a while
