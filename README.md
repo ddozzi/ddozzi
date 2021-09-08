@@ -3,3 +3,18 @@
 * I'm a programmer, gamer, and student 
 * Java, Python, R and C# programmer. In the process of learning web development.
 
+## Things i'm working on
+* Created third party modifications for popular game; Minecraft
+* Head developer @ Agility
+
+## Things i've worked on 
+* Was a UI & UX designer for a while
+* Created some games, none of which i've finished (got bored of making them)
+* Head developer @ Space (retired)
+* Used neural networks to detect early signs of kidney disease
+* a lot more...
+
+I really have to clean up my social media...
+
+
+
