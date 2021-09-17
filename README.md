@@ -7,6 +7,7 @@
 ## About me
 * I'm a programmer, gamer, and student 
 * Java, Python, R and C# programmer. In the process of learning web development, and getting back into machine learning.  
+* Loves Minecraft
 
 
 ## My experience 
