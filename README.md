@@ -23,8 +23,5 @@
 * Experience with databases (MongoDB, MySQL)
 * Lead Developer & Owner @ Agility
 * Senior Developer @ Space (retired)
-* Much more..
- 
-
 
 <!-- [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
