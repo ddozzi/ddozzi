@@ -1,4 +1,3 @@
-# im ddozzi
+# this account is no longer in use
 
-- self-taught dev
-- java, python, r, c#, c++, html, js, css
+This was once my main account, but not anymore! See my new account [here](https://github.com/krozzi)!
